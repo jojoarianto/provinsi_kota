@@ -1,0 +1,1 @@
+Project percontohan untuk combobox dependensi. Studi kasus provinsi dan kota yang terdapat di indonesia. Project ini dibuat menggunakan framework laravel 5 dengan bahasa dasar php, html, jquery, dan ajax
